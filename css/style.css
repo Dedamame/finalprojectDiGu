@@ -1,0 +1,350 @@
+@font-face {
+    font-family: lexendexa;
+    src: url(../fonts/LexendExa-VariableFont_wght.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+header{
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+.icon img{
+    width: 40px;
+    height: 48px;
+}
+.futer{
+    font-family: lexendexa;
+}
+.futer a{
+    color: #000000;
+}
+.didibichi{
+    font-size: 135px;
+    margin: auto;
+    font-family: lexendexa;
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: -1.1%;
+    line-height: 150%;
+
+}
+.rter{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 56px;
+    padding-bottom: 36px;
+    font-size: 10px;
+    font-weight: 200;
+}
+.didibichi span{
+    font-weight: 250;
+}
+.levani{
+    width: 100%;
+    height: 614px;
+    
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.ferado{
+    width: 100%;
+    height: 804px;
+    background-color: #333333;
+}
+.ferado ul li{
+    font-size: 24px;
+    padding: 88px 0 0 124px;
+    color: #FFFFFF;
+    font-family: lexendexa;
+}
+
+.texti{
+    color: #FFFFFF;
+    font-size: 40px;
+    padding-top: 80px;
+    font-family: lexendexa;
+    width: 928px;
+    padding-bottom: 28px;
+    border-bottom: 3px solid #FFFFFF;
+}
+.hallo{
+    display:flex;
+    gap: 424px;
+}
+.texti2{
+    padding-top: 28px;
+    color: #FFFFFF;
+    font-size: 24px;
+    padding-top: 80px;
+    font-family: lexendexa;
+    padding-left: 778px;
+    padding-top: 28px;
+}
+.tavi{
+    font-family: lexendexa;
+    font-size: 64px;
+    color: #000000;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 188px;
+}
+.fotopirveli2{
+    width: 856px;
+    height: 856px;
+    padding-top: 60px;
+    padding-left: 68px;
+}
+.fotopirveli3{
+    width: 856px;
+    height: 856px;
+    padding-top: 60px;
+    padding-right: 32px;
+}
+.gugu{
+    padding-bottom: 12px;
+}
+.warwera{
+    font-family: lexendexa;
+    font-size: 20;
+    color: #000000;
+    padding-top: 12px;
+    border-top: 4px solid #333333;
+}
+.warwera2{
+    font-family: lexendexa;
+    font-size: 16px;
+    font-weight: 300;
+}
+footer{
+    background-color: #333333;
+    height: 342px;
+    margin-top: 268px;
+    padding: 10px 28px 0 28px;
+}
+.footeris {
+    font-family: lexendexa;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 16px;
+}
+.xazi{
+    width: 2px;
+    height: 320px;    
+    background-color: #D9D9D9;
+}
+footer .flex{
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.naweri{
+    width: 800px;
+    margin: 0 auto;
+}
+.naweri.flex{
+    flex-wrap: wrap;
+}
+.alio{
+    color: #FFFFFF;
+    font-family: lexendexa;
+    width: 40%;
+    padding-top: 68px;
+}
+h2{
+    font-size: 20px;
+    font-weight: 500;
+}
+.alio p{
+    font-size: 15px;
+    font-weight: 300;
+    padding-top: 10px;
+}
+.xazi2{
+    width: 2px;
+    height: 320px;    
+    background-color: #D9D9D9;
+}
+.mzesumzira{
+    margin:100px 34px 0 34px
+}
+.fotoebi{
+    width: 606px;
+    height: 408px;
+}
+.mzesumzira .fotoebi p{
+    font-size: 16px;
+    font-family: lexendexa;
+    margin-top: 8px;
+}
+.racxa{
+    font-size: 32px;
+    text-align: center;
+    padding-top: 94px;
+}
+.kargifoto{
+    width: 100%;
+    padding-top: 46px;
+}
+.murtazi{
+    width: 626px;
+    height: 68px;
+}
+.startit{
+    text-align: center;
+    font-size: 48px;
+    border: 1px solid #000000;
+    width: 600px;
+    padding: 14px;
+    margin: 44px auto;
+    font-weight: 300;
+}
+.startit a{
+    color: #000000;
+}
+.nextdiv{
+    padding-top: 44px;
+    text-align: center;
+}
+.levaniko{
+    font-family: lexendexa;
+    font-size: 36px;
+    color: #000000;
+}
+.dzaandididivi{
+    width: 1860px;
+    height: 870px;
+    background-color: #F0F0F0;
+    position: absolute;
+    top: 160px;
+    left: 70px;
+}
+.viuvau{
+    width: 32px;
+    height: 34px;
+    position: absolute;
+    top: 52px;
+    right: 52px;
+}
+.dzaandididivi .leodzma{
+    font-size: 64px;
+    font-family: lexendexa;
+    font-weight: 300;
+    width: 1800px;
+    padding-top: 110px;
+    padding-left: 130px;
+    text-align: center;
+}
+.reg{
+    width: 1370px;
+    margin: 76px auto;
+    padding: 20px;
+}
+.reg input, .reg label{
+    width: 100%;
+    color: #000000
+}
+.reg input{
+    padding: 4px;
+    border: none;
+    border-bottom: 1px solid #000000;
+    outline: none;
+    background-color: #F0F0F0;
+}
+.label div, .label div{
+    width: 40%;
+}
+.reg label{
+    display: block;
+    margin-top: 30px;
+}
+.textii{
+    font-family: lexendexa;
+    font-size: 40px;
+    font-weight: 300;
+}
+.mesamemtavari{
+    padding-top: 104px;
+}
+.startit2{
+    text-align: center;
+    font-size: 40px;
+    border: 1px solid #000000;
+    width: 168px;
+    padding: 14px;
+    margin: 44px auto;
+    font-weight: 300;
+}
+.startit2 a{
+    color: #000000;
+}
+.dzaandididivi2{
+    width: 1860px;
+    height: 630px;
+    background-color: #F0F0F0;
+    position: absolute;
+    top: 160px;
+    left: 70px;
+}
+.dzaandididivi2 .leodzma2{
+    font-size: 64px;
+    font-family: lexendexa;
+    font-weight: 300;
+    width: 1800px;
+    padding-top: 194px;
+    padding-left: 250px;
+    text-align: center;
+}
+.bolosataurebi{
+    font-size: 96px;
+    font-family: lexendexa;
+    margin: 92px 62px 0 62px;
+}
+.bolofoto{
+    width: 100%;
+    padding-top: 76px;
+}
+.bolowera .eserti p{
+    font-family: lexendexa;
+    font-size: 36px;
+    font-weight: 300
+}
+.bolowera{
+    padding-top: 70px;
+}
+.bolowera .eserti{
+    width: 1100px;
+    padding: 92px 0 0 70px;
+}
+.bolowera .bolosmeorenawili div{
+    width: 590px;
+    padding-bottom: 92px;
+}
+.flex2{
+    display: flex;
+    justify-content: space-between;
+}
+.bolowera .bolosmeorenawili div h4{
+    font-size: 32px;
+    font-family: lexendexa;
+}
+.bolosmeorenawili div span{
+    font-weight: 300;
+}
+.bolosmeorenawili div{
+    border-left: 1px solid;
+    padding-left: 30px;
+    padding-right: 80px;
+}
